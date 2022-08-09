@@ -27,12 +27,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-
+## Steps to run
 clone repository
+
+
 install angular cli, npm
+
+
 run npm install
+
+
 run ng build to build project
+
+
 run ng serve -o
+
+
 project will be launched at localhost:4200
 
 download the jar file from other repository in my profile
