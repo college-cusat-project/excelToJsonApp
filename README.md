@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+clone repository
+install angular cli, npm
+run npm install
+run ng build to build project
+run ng serve -o
+project will be launched at localhost:4200
+
+download the jar file from other repository in my profile
+run the jar file
+
+then upload the excel file. Excel file should be in .xlsx format
+json generated is not being downloaded right now. However, to see the json output, do inspect element in browser. Generated json is being outputted in console.
